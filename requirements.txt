@@ -1,0 +1,11 @@
+flask
+langchain
+google-generativeai
+yfinance
+beautifulsoup4
+matplotlib
+tensorflow
+flask
+numpy
+pandas
+scikit-learn
