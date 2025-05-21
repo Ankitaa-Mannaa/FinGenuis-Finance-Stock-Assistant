@@ -14,7 +14,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # ==================== SETUP =======================
-GENAI_API_KEY = "AIzaSyCACNIYJF4pkfDL5v1Lem6OFRMyocp8ImY"  # Replace with your Gemini API key
+GENAI_API_KEY = ""  # Replace with your Gemini API key
 genai.configure(api_key=GENAI_API_KEY)
 
 memory = ConversationBufferMemory(memory_key="chat_history", input_key="question")
