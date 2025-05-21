@@ -37,4 +37,3 @@ An intelligent full-stack finance chatbot built with **Flask**, **LangChain**, a
 - **APIs/Scraping**: yFinance, BeautifulSoup
 - **Data Visualization**: matplotlib, plotly, Power BI
 - **Machine Learning**: Scikit-learn, TensorFlow/Keras
-- 
