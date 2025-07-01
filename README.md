@@ -23,8 +23,6 @@ An intelligent full-stack finance chatbot built with **Flask**, **LangChain**, a
 - 🧠 **LangChain + Gemini API**:
   - Uses Gemini for responses
   - Memory support via LangChain for coherent chats
-- 📊 **Power BI Integration**:
-  - Embedded Power BI dashboard showing market overview
 - 🔐 **Secure Flask Backend**:
   - Text-based interaction
   - Scalable structure
